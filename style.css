@@ -20,7 +20,7 @@ h2 {
 
 main {
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 48% 52%;
     margin-top: 3rem;
 }
 
@@ -54,4 +54,8 @@ i {
 
 #mainLeft {
     border-right: 1px solid lightgray;
+}
+
+.result {
+    text-decoration: none;
 }
